@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Ro-Bella/README.md
+
 .👋 Hi, I’m Robel
 .👀 I’m interested in full stack web development
 .🌱 I’m currently Certified by full stack web development
