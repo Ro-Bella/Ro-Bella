@@ -11,7 +11,7 @@ I am a **Certified Full-Stack Web Developer** with a passion for building clean,
 Here are the core technologies I work with:
 - **Frontend:** Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** Next.js API Routes, Node.js
-- **Database:** MongoDB
+- **Database:** MongoDB, PostgreSQL
 - **Deployment:** Vercel, Docker
 
 ### 📫 Get In Touch
