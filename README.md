@@ -9,10 +9,17 @@ I am a **Certified Full-Stack Web Developer** with a passion for building clean,
 
 ### 🛠 Tech Stack & Tools
 Here are the core technologies I work with:
-- **Frontend:** Next.js, React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Next.js API Routes, Node.js
+- **Frontend:** Next.js, React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+- **Backend:** Node.js, Next.js , RESTful APIs, 
 - **Database:** MongoDB, PostgreSQL
+- **DevSecOps & Tools: Docker, Git/GitHub, CI/CD basic concepts, VS Code, Postman.
+- **Core Knowledge: Database Management, Web Security, Responsive Design.
 - **Deployment:** Vercel, Docker
+
+  SOFT SKILLS
+- **Analytical Problem-Solving
+- **Continuous Learning & Adaptability
+- **Effective Team Collaboration
 
 ### 📫 Get In Touch
 Feel free to reach out for project collaborations or professional opportunities:
